@@ -17,7 +17,7 @@ jobs:
       - name: Generate the snake
         uses: Platane/snk@v3
         with:
-          github_user_name: vaniavi
+          github_user_name: VaniaVI
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg
