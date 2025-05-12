@@ -47,8 +47,7 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
   &emsp;
-    <a href=https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mongodb&logoColor=white"></a>
-  &emsp;
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
   &emsp;
     <a href="https://www.oracle.com/database/sqldeveloper/"><img alt="OracleSql" src="https://img.shields.io/badge/Oracle-Database?logo=oracle&logoColor=white"></a>
   &emsp;
