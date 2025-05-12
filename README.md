@@ -2,10 +2,20 @@
 
 ### 👨‍💻 Programming Languages
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black</a>
-    <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+<p  align="left">
+    &emsp;
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava">
+        <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+    &emsp;
+    <a href="https://www.python.org" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    </a>
+    
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
