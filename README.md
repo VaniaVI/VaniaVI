@@ -30,6 +30,8 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -42,5 +44,5 @@
 
 
 ### ⚙️ GitHub Analytics
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniavi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniavi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaniavi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
