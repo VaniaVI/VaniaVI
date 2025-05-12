@@ -5,7 +5,7 @@
 <p  align="left">
     &emsp;
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava">
-        <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+        <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
     </a>
     &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -46,10 +46,9 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.oracle.com/database/sqldeveloper/"><img alt="OracleSql" src="https://img.shields.io/badge/Oracle-Database?logo=oracle&logoColor=white"></a>
+    <a href="https://www.oracle.com/database/sqldeveloper/"><img alt="OracleSql" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
  </p>
