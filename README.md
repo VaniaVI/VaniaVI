@@ -65,11 +65,13 @@
 
 
     
- ### 🌸 Thanks for visiting me 🌸 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vaniavi.vaniavi)
+ ##🌸 Thanks for visiting me 🌸 
+
+![Visitor Count](https://profile-counter.glitch.me/vaniavi/count.svg)
+
 
     
- ### 📥 Contact me   
+ ## 📥 Contact me   
 <p align="center">
      &emsp;
     <a target="_blank" href="https://www.linkedin.com/in/vaniavi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></img></a>
