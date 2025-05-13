@@ -1,6 +1,6 @@
 <h1 align="center"> HI 👋, I´M VANIA.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p  align="left">
     &emsp;
@@ -16,7 +16,7 @@
         <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
     </a>
     
-### 💗 Frontend Development
+## 💗 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -63,15 +63,19 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/VaniaVI/VaniaVI/main/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<!-- Gracias por las vistas -->
-<p align="center">
-   🌸Thanks for visiting me 🌸
-</p>
+
+<h1 align="center">
+    
+ ### 🌸 Thanks for visiting me 🌸 
+</h1>
 ![Visitor Count](https://profile-counter.glitch.me/vaniavi/count.svg)
 
-### Contact me
+<h1 align="center">
+    
+ ### 📥 Contact me   
+</h1>
+
 <p align="center">
-     📥 Contact me
      &emsp;
     <a target="_blank" href="https://www.linkedin.com/in/vaniavi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></img></a>
      &emsp;
