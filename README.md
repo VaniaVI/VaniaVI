@@ -63,4 +63,18 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/VaniaVI/VaniaVI/main/output/github-contribution-grid-snake.svg" />
 </picture>
 
+### Gracias por las vistas
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+### Contact me
+<p align="center">
+     &emsp;
+    <a target="_blank" href="https://www.linkedin.com/in/vaniavi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></img></a>
+     &emsp;
+    <a target="_blank" href="mailto:vania.vargas.igor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white"></img></a>
+</p>
+
+
+
+
 
