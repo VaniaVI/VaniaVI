@@ -66,7 +66,8 @@
 
     
  ### 🌸 Thanks for visiting me 🌸 
-![Visitor Count](https://profile-counter.glitch.me/vaniavi/count.svg)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vaniavi.vaniavi)
+
     
  ### 📥 Contact me   
 <p align="center">
