@@ -1,4 +1,4 @@
-<h1 align="center"> HI 👋, I´M VANIA.</h1>
+<h1 align="center"> HI 👋, I´M VANIA.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
 ### 👨‍💻 Programming Languages
 
