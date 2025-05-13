@@ -41,7 +41,7 @@
     
 </p>
 
-### 🤓 Databases
+## 🤓 Databases
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -53,7 +53,7 @@
  </p>
 
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniavi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaniavi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
@@ -64,17 +64,11 @@
 </picture>
 
 
-<h1 align="center">
     
  ### 🌸 Thanks for visiting me 🌸 
-</h1>
 ![Visitor Count](https://profile-counter.glitch.me/vaniavi/count.svg)
-
-<h1 align="center">
     
  ### 📥 Contact me   
-</h1>
-
 <p align="center">
      &emsp;
     <a target="_blank" href="https://www.linkedin.com/in/vaniavi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></img></a>
