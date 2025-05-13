@@ -65,10 +65,10 @@
 
 
     
- ##🌸 Thanks for visiting me 🌸 
-
+ ## 🌸 Thanks for visiting me 🌸 
+<p align="center">
 ![Visitor Count](https://profile-counter.glitch.me/vaniavi/count.svg)
-
+</p>
 
     
  ## 📥 Contact me   
