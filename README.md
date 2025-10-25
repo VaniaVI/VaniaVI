@@ -38,10 +38,14 @@
 <a href="https://nodejs.org/es" target="_blank">  
     <img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
 </a>    
-<a href="https://nextjs.org/" target="_blank">  
+<a 
+    &emsp;
+    href="https://nextjs.org/" target="_blank">  
     <img alt="nextjs" src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white"/>
 </a> 
-<a href="https://www.typescriptlang.org/" target="_blank">  
+<a 
+    &emsp;
+    href="https://www.typescriptlang.org/" target="_blank">  
     <img alt="nextjs" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF"/>
 </a> 
     
